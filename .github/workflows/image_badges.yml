@@ -1,14 +1,10 @@
 name: image badges
 
 # Counts the distinct images of every loader on Docker Hub and publishes one
-# shields.io endpoint file per loader on the "badges" branch. Runs after each
-# loader workflow, once a day as a safety net, or manually. It never builds
-# anything and pushing to "badges" starts no other workflow.
+# shields.io endpoint file per loader on the "badges" branch of this
+# repository (the profile repository). Runs once a day, after the last loader
+# build of the day, or manually. Pushing to "badges" starts no other workflow.
 on:
-  workflow_run:
-    # Must match the "name:" field of each loader workflow.
-    workflows: [vanilla, bukkit, spigot, paper, forge, neoforge, fabric, quilt, velocity, horizon]
-    types: [completed]
   schedule:
     - cron: "30 23 * * *"
   workflow_dispatch:
