@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1400&color=B900F4&center=true&vCenter=true&width=650&lines=%E2%97%8F+ON+AIR+%E2%80%94+Gwendal+REYLANS;Streaming+%26+broadcast+developer;OBS+%C2%B7+Companion+%C2%B7+Docker+%C2%B7+TypeScript;Currently+building+nLock.live" alt="ON AIR — Gwendal REYLANS" />
 
 <a href="https://linktr.ee/Gwenitora"><img src="https://img.shields.io/badge/linktree-Gwenitora-B900F4?style=flat-square&labelColor=16171C" alt="Linktree" /></a>
-<img src="https://img.shields.io/badge/based_in-Besan%C3%A7on%2C_France-B900F4?style=flat-square&labelColor=16171C" alt="Based in Besançon, France" />
+<img src="https://img.shields.io/badge/based_in-France-B900F4?style=flat-square&labelColor=16171C" alt="Based in France" />
 <img src="https://img.shields.io/badge/lang-EN_%7C_FR-B900F4?style=flat-square&labelColor=16171C" alt="EN | FR" />
 
 </div>
@@ -14,7 +14,8 @@
 
 I build everything that runs behind a live show, close or far: dynamic sources, control panels,
 plugins for **OBS** and **Bitfocus Companion**, servers and APIs.
-I come from **game development** (Unity, Unreal Engine, shaders), and I still think of a live
+I graduated from **G. Tech**, the developer school of **Gaming Campus**
+(Bachelor's in software development, video game option, 2022–2025), and I still think of a live
 production as a real-time scene to direct.
 
 ### ▶ Now showing
@@ -22,8 +23,7 @@ production as a real-time scene to direct.
 | Project | What it does |
 |---|---|
 | [**MinecraftServ-builder**](https://github.com/Gwenitora/MinecraftServ-builder) | Ready-to-use Docker images for any Minecraft loader (Paper, Fabric, Forge, Velocity…), every version, rebuilt every day. |
-| [**imgBaseOnRTMP**](https://github.com/Gwenitora/imgBaseOnRTMP) | Grabs frames from RTMP streams and serves them over HTTP: crop, resize, custom intervals, Docker-ready. |
-| [**GCompanion**](https://github.com/Gwenitora/GCompanion) | My plugin for Bitfocus Companion. |
+| [**Pipl**](https://neverminded-studio.itch.io/pipl) · [source](https://github.com/Gwenitora/Pipl-) | My graduation project: a mobile game made in one month by **Neverminded Studio**, a mixed team of developers, artists, audiovisual and business students. As **lead developer**, I coded, made the technical decisions, organized the dev team and met the other department leads all along the project. **Best Trailer** and **overall award** of my class at the **Gaming Campus Awards**. |
 
 <div align="center">
 
@@ -38,7 +38,7 @@ production as a real-time scene to direct.
 
 - **nLock.live** (read *unlock live*): dynamic OBS sources without writing a single line of code.
   Move objects, slide values, go live. Open source plugins, self-hosted with Docker. *In the works.*
-- **SpaceNoop**: the team where I work on **NoopCraft**, a Minecraft network (Java, Velocity, Paper, Docker).
+- Proud member of the **SpaceNoop** team.
 
 ### ⚙ Gear
 
@@ -47,8 +47,6 @@ production as a real-time scene to direct.
   <br />
   <img src="https://img.shields.io/badge/OBS_Studio-16171C?style=flat-square&logo=obsstudio&logoColor=F4F2EC" alt="OBS Studio" />
   <img src="https://img.shields.io/badge/Bitfocus_Companion-16171C?style=flat-square" alt="Bitfocus Companion" />
-  <img src="https://img.shields.io/badge/RTMP-16171C?style=flat-square" alt="RTMP" />
-  <img src="https://img.shields.io/badge/ffmpeg-16171C?style=flat-square&logo=ffmpeg&logoColor=F4F2EC" alt="ffmpeg" />
 </p>
 
 ### ◉ Live feed
@@ -75,6 +73,13 @@ production as a real-time scene to direct.
   </picture>
 </p>
 
+### ◌ Off air
+
+<p align="center">
+  <a href="mailto:support@gwenitora.com"><img src="https://img.shields.io/badge/support@gwenitora.com-16171C?style=flat-square&logo=maildotru&logoColor=B900F4" alt="support@gwenitora.com" /></a>
+  <a href="mailto:support@nlock.live"><img src="https://img.shields.io/badge/support@nlock.live-16171C?style=flat-square&logo=maildotru&logoColor=B900F4" alt="support@nlock.live" /></a>
+</p>
+
 ---
 
 <details>
@@ -84,20 +89,24 @@ production as a real-time scene to direct.
 
 Je code tout ce qui tourne derrière un live, de près comme de loin : sources dynamiques,
 panneaux de contrôle, plugins pour **OBS** et **Bitfocus Companion**, serveurs et API.
-Je viens du **développement de jeux vidéo** (Unity, Unreal Engine, shaders), et je vois toujours
+Je suis diplômé de **G. Tech**, l'école de développement du **Gaming Campus**
+(Bachelor développeur informatique, option jeu vidéo, 2022–2025, bac+3), et je vois toujours
 une production live comme une scène temps réel à mettre en scène.
 
 ### ▶ Au programme
 
 - [**MinecraftServ-builder**](https://github.com/Gwenitora/MinecraftServ-builder) : des images Docker prêtes à l'emploi pour n'importe quel loader Minecraft (Paper, Fabric, Forge, Velocity…), toutes les versions, reconstruites chaque jour.
-- [**imgBaseOnRTMP**](https://github.com/Gwenitora/imgBaseOnRTMP) : capture des images depuis des flux RTMP et les sert en HTTP (recadrage, redimensionnement, intervalle réglable, prêt pour Docker).
-- [**GCompanion**](https://github.com/Gwenitora/GCompanion) : mon plugin pour Bitfocus Companion.
+- [**Pipl**](https://neverminded-studio.itch.io/pipl) ([code source](https://github.com/Gwenitora/Pipl-)) : mon projet de fin d'études, un jeu mobile réalisé en un mois par **Neverminded Studio**, une équipe mêlant développeurs, artistes, audiovisuel et business. En tant que **responsable dev**, je codais, je prenais les décisions techniques, j'organisais l'équipe de développeurs et je faisais le point très régulièrement avec les responsables des autres pôles. **Trophée du meilleur trailer** et **trophée général** de ma promotion aux **Gaming Campus Awards**.
 
 ### ◐ En coulisses
 
 - **nLock.live** (se lit *unlock live*) : des sources dynamiques pour OBS sans écrire une ligne de code.
   On déplace des objets, on fait glisser des curseurs, on passe à l'antenne. Plugins open source, auto-hébergé avec Docker. *En préparation.*
-- **SpaceNoop** : l'équipe avec laquelle je travaille sur **NoopCraft**, un réseau de serveurs Minecraft (Java, Velocity, Paper, Docker).
+- Fier membre de l'équipe **SpaceNoop**.
+
+### ◌ Hors antenne
+
+Pour me joindre : support@gwenitora.com, ou support@nlock.live pour tout ce qui concerne nLock.live.
 
 </details>
 
