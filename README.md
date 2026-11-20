@@ -59,7 +59,7 @@ production as a real-time scene to direct.
 ### ◉ Live feed
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gwenitora&show_icons=true&hide_border=true&bg_color=16171C&title_color=B900F4&icon_color=B900F4&text_color=F4F2EC&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gwenitora&show_icons=true&hide_border=true&bg_color=16171C&title_color=B900F4&icon_color=B900F4&text_color=F4F2EC" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwenitora&layout=compact&hide_border=true&bg_color=16171C&title_color=B900F4&text_color=F4F2EC" alt="Top languages" />
 </p>
 <p align="center">
