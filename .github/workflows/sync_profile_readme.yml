@@ -1,0 +1,41 @@
+name: sync profile README
+
+# Copies README.md of Gwenitora/Gwenitora (public) to profile/README.md of
+# this repository, the README shown on the Gwenitora-FORKS organization page.
+# Runs every hour and on demand; commits only when the README changed.
+# Uses the default GITHUB_TOKEN: no personal token needed.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-profile-readme
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download the main profile README
+        run: |
+          mkdir -p profile
+          curl -fsSL "https://raw.githubusercontent.com/Gwenitora/Gwenitora/main/README.md" -o profile/README.md
+
+      - name: Commit and push if it changed
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Organization README already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git commit -q -m "chore: sync profile README from Gwenitora/Gwenitora"
+          git push -q
