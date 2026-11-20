@@ -46,6 +46,8 @@ production as a real-time scene to direct.
 - **nLock.live** (read *unlock live*): dynamic OBS sources without writing a single line of code.
   Move objects, slide values, go live. Open source plugins, self-hosted with Docker. *In the works.*
 - Proud member of the **SpaceNoop** team.
+- [**Gwenitora-FORKS**](https://github.com/Gwenitora-FORKS): where my forks live, so this profile only shows what I build.
+- [**Gwenitora**](https://github.com/Gwenitora): and here, my personal projects.
 
 ### ⚙ Gear
 
@@ -110,6 +112,8 @@ une production live comme une scène temps réel à mettre en scène.
 - **nLock.live** (se lit *unlock live*) : des sources dynamiques pour OBS sans écrire une ligne de code.
   On déplace des objets, on fait glisser des curseurs, on passe à l'antenne. Plugins open source, auto-hébergé avec Docker. *En préparation.*
 - Fier membre de l'équipe **SpaceNoop**.
+- [**Gwenitora-FORKS**](https://github.com/Gwenitora-FORKS) : là où vivent mes forks, pour que ce profil ne montre que ce que je construis.
+- [**Gwenitora**](https://github.com/Gwenitora) : et ici, mes projets personnel.
 
 ### ◌ Hors antenne
 
