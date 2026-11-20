@@ -27,17 +27,17 @@ production as a real-time scene to direct.
 
 <div align="center">
 
-[![vanilla](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Fvanilla.json)](https://hub.docker.com/r/minecraftserv/vanilla)
-[![bukkit](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Fbukkit.json)](https://hub.docker.com/r/minecraftserv/bukkit)
-[![spigot](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Fspigot.json)](https://hub.docker.com/r/minecraftserv/spigot)
-[![paper](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Fpaper.json)](https://hub.docker.com/r/minecraftserv/paper)
-[![forge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Fforge.json)](https://hub.docker.com/r/minecraftserv/forge)
+[![vanilla](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Fvanilla.json)](https://hub.docker.com/r/minecraftserv/vanilla)
+[![bukkit](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Fbukkit.json)](https://hub.docker.com/r/minecraftserv/bukkit)
+[![spigot](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Fspigot.json)](https://hub.docker.com/r/minecraftserv/spigot)
+[![paper](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Fpaper.json)](https://hub.docker.com/r/minecraftserv/paper)
+[![forge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Fforge.json)](https://hub.docker.com/r/minecraftserv/forge)
 <br />
-[![neoforge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Fneoforge.json)](https://hub.docker.com/r/minecraftserv/neoforge)
-[![fabric](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Ffabric.json)](https://hub.docker.com/r/minecraftserv/fabric)
-[![quilt](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Fquilt.json)](https://hub.docker.com/r/minecraftserv/quilt)
-[![velocity](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Fvelocity.json)](https://hub.docker.com/r/minecraftserv/velocity)
-[![horizon](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FMinecraftServ-builder%2Fbadges%2Fhorizon.json)](https://hub.docker.com/r/minecraftserv/horizon)
+[![neoforge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Fneoforge.json)](https://hub.docker.com/r/minecraftserv/neoforge)
+[![fabric](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Ffabric.json)](https://hub.docker.com/r/minecraftserv/fabric)
+[![quilt](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Fquilt.json)](https://hub.docker.com/r/minecraftserv/quilt)
+[![velocity](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Fvelocity.json)](https://hub.docker.com/r/minecraftserv/velocity)
+[![horizon](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FGwenitora%2FGwenitora%2Fbadges%2Fhorizon.json)](https://hub.docker.com/r/minecraftserv/horizon)
 
 </div>
 
