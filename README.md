@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1400&color=B900F4&center=true&vCenter=true&width=650&lines=%E2%97%8F+ON+AIR+%E2%80%94+Gwendal+REYLANS;Streaming+%26+broadcast+developer;OBS+%C2%B7+Companion+%C2%B7+Docker+%C2%B7+TypeScript;Currently+building+nLock.live" alt="ON AIR — Gwendal REYLANS" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1400&color=B900F4&center=true&vCenter=true&width=650&lines=%E2%97%8F+ON+AIR+%E2%80%94+REYLANS+Gwendal;Streaming+%26+broadcast+developer;OBS+%C2%B7+Companion+%C2%B7+Docker+%C2%B7+TypeScript;Currently+building+nLock.live" alt="ON AIR — Gwendal REYLANS" />
 
 <a href="https://linktr.ee/Gwenitora"><img src="https://img.shields.io/badge/linktree-Gwenitora-B900F4?style=flat-square&labelColor=16171C" alt="Linktree" /></a>
 <img src="https://img.shields.io/badge/based_in-France-B900F4?style=flat-square&labelColor=16171C" alt="Based in France" />
